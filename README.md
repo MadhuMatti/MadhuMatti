@@ -7,5 +7,4 @@
 
 
 
-## 🌐 Socials:
-LinkedIn
+    
